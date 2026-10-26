@@ -28,6 +28,6 @@ Backup architecture, frontmatter specifications, and synchronisation mechanics a
 
 <div align="justify">
 
-The `blog-backup` repository contents are provided under the [MIT Licence](https://github.com/benweston/blog-backup/blob/main/LICENSE).   
+The `blog-backup` repository is open source and provided under the [MIT Licence](https://github.com/benweston/blog-backup/blob/main/LICENSE).   
 
 </div>
