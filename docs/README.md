@@ -15,13 +15,3 @@
 > Repository documentation, backup specifications, and synchronisation guides.   
 
 </div>
-
-## Contents
-
-<div align="justify">
-
-| Document | Description |
-| :--- | :--- |
-| [`backup-and-recovery.md`](./backup-and-recovery.md) | Hashnode inbound GitHub backup mechanics, file format specifications, and recovery procedures. |
-
-</div>
